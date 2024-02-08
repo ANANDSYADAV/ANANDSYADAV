@@ -25,14 +25,42 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-* [![Next][Next.js]]["google.com"]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<a href="https://www.w3schools.com/c/c_intro.php?external_link=true">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+</a>
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+</a>
+<a href="https://www.geeksforgeeks.org/html5-introduction/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+</a>
+<a href="https://www.w3schools.com/css/css_intro.asp">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+</a>
+<a href="https://react.dev/">
+    <img src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+</a>
+<a href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+</a>
+<a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js Badge"/>
+</a>
+<a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</a>
+<a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+</a>
+<a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+</a>
+<a href="https://reactrouter.com/">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/>
+</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsyadav&show_icons=true&locale=en&layout=compact" alt="anandsyadav" /></p>
 
