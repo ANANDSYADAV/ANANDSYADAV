@@ -25,8 +25,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-* [![C][C]][https://www.w3schools.com/cpp/]
-* [![C++][C++]][https://www.w3schools.com/cpp/]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandsyadav&show_icons=true&locale=en&layout=compact" alt="anandsyadav" /></p>
 
