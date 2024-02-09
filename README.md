@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anand yadav" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="50" width="80" /></a>
-<a href="https://leetcode.com/anandsyadav257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="anand" height="50" width="80" /></a>
-<a href="https://www.codingninjas.com/studio/profile/ninja_Anand" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="anand" height="50" width="80" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anandsya3qfj" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anand" height="50" width="80" /></a>
-<a href="https://stackoverflow.com/users/anand" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="anand" height="50" width="80" /></a>
-<a href="https://instagram.com/anandsyadav257" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="anandsyadav257" height="50" width="80" /></a>
+<a href="https://linkedin.com/in/anand yadav" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="40" width="100" /></a>
+<a href="https://leetcode.com/anandsyadav257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="anand" height="40" width="100" /></a>
+<a href="https://www.codingninjas.com/studio/profile/ninja_Anand" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="anand" height="40" width="100" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anandsya3qfj" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anand" height="40" width="100" /></a>
+<a href="https://stackoverflow.com/users/anand" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="anand" height="40" width="100" /></a>
+<a href="https://instagram.com/anandsyadav257" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="anandsyadav257" height="40" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
