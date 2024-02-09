@@ -17,7 +17,7 @@
 
 - ⚡ **I am focused 🎯**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anand yadav" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="40" width="100" /></a>
 <a href="https://leetcode.com/anandsyadav257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="anand" height="40" width="100" /></a>
