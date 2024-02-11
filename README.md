@@ -1,4 +1,4 @@
-![logo](https://github.com/ANANDSYADAV/ANANDSYADAV/blob/main/BANNER.mp4)
+![logo](https://github.com/ANANDSYADAV/ANANDSYADAV/blob/main/BANNER.png)
 
 <h1 align="center">Hi 👋, I'm ANAND YADAV</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
