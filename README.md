@@ -25,6 +25,7 @@
 <a href="https://auth.geeksforgeeks.org/user/anandsya3qfj" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anand" height="40" width="100" /></a>
 <a href="https://stackoverflow.com/users/anand" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="anand" height="40" width="100" /></a>
 <a href="https://instagram.com/anandsyadav257" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="anandsyadav257" height="40" width="100" /></a>
+<a href="https://www.npmjs.com/~anandsyadav" target="_blank"><img align="center" src="![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)" alt="anandsyadav" height="40" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
