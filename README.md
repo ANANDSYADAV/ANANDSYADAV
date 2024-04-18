@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandsyadav" alt="anandsyadav" /></a> </p>
 
-- 🔭 I’m currently working on [Library Management System](https://github.com/ANANDSYADAV/Library-Management-System)
+- 🔭 I’m currently working on [Splitz](https://github.com/ANANDSYADAV/Splitz)
 
 - 🌱 I’m currently learning **Backend Technologies**
 
