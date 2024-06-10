@@ -17,6 +17,9 @@
 
 - ⚡ **I am focused 🎯**
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anand-yadav-08b7b2230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anand-yadav-08b7b2230?trk=profile-badge">Anand Yadav</a></div>
+              
+
 <h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anand yadav" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="40" width="100" /></a>
