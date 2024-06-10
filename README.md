@@ -16,17 +16,15 @@
 - 📫 Reach me out at **anandsyadav257@gmail.com**
 
 - ⚡ **I am focused 🎯**
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anand-yadav-08b7b2230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anand-yadav-08b7b2230?trk=profile-badge">Anand Yadav</a></div>
               
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anand yadav" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="40" width="100" /></a>
+<a href="https://linkedin.com/in/anand-yadav-08b7b2230" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="40" width="100" /></a>
 <a href="https://leetcode.com/anandsyadav257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="anand" height="40" width="100" /></a>
 <a href="https://www.codingninjas.com/studio/profile/ninja_Anand" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="anand" height="40" width="100" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anandsya3qfj" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anand" height="40" width="100" /></a>
-<a href="https://stackoverflow.com/users/anand" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="anand" height="40" width="100" /></a>
+<a href="https://stackoverflow.com/users/22985848/anand" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="anand" height="40" width="100" /></a>
 <a href="https://instagram.com/anandsyadav257" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="anandsyadav257" height="40" width="100" /></a>
 <a href="https://www.npmjs.com/~anandsyadav" target="_blank"><img align="center" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="anandsyadav" height="40" width="100" /></a>
 </p>
