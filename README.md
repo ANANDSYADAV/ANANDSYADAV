@@ -21,11 +21,17 @@
 <h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anand-yadav-08b7b2230" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anand yadav" height="40" width="100" /></a>
+  
 <a href="https://leetcode.com/anandsyadav257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="anand" height="40" width="100" /></a>
+
 <a href="https://www.codingninjas.com/studio/profile/ninja_Anand" target="_blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="anand" height="40" width="100" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/anandsya3qfj" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="anand" height="40" width="100" /></a>
+
 <a href="https://stackoverflow.com/users/22985848/anand" target="_blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="anand" height="40" width="100" /></a>
-<a href="https://instagram.com/anandsyadav257" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="anandsyadav257" height="40" width="100" /></a>
+
+<a href="https://yadav-anand.medium.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="anandsyadav257" height="40" width="100" /></a>
+
 <a href="https://www.npmjs.com/~anandsyadav" target="_blank"><img align="center" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="anandsyadav" height="40" width="100" /></a>
 </p>
 
