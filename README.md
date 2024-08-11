@@ -1,21 +1,19 @@
 ![logo](https://github.com/ANANDSYADAV/ANANDSYADAV/blob/main/BANNER.png)
 
 <h1 align="center">Hi 👋, I'm ANAND YADAV</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate MERN stack enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandsyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anandsyadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandsyadav" alt="anandsyadav" /></a> </p>
 
-- 🔭 I’m currently working on [Splitz](https://github.com/ANANDSYADAV/Splitz)
+- 🔭 I’m currently working on [BlogEleva](https://github.com/ANANDSYADAV/BlogEleva)
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently exploring **Backend Technologies**
 
 - 👨‍💻 My Portfolio [https://my-dev-folio-eight.vercel.app/](https://my-dev-folio-eight.vercel.app/)
 
 - 📫 Reach me out at **anandsyadav257@gmail.com**
-
-- ⚡ **I am focused 🎯**
               
 
 <h3 align="left">Profiles:</h3>
